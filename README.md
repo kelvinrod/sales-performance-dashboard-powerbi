@@ -32,9 +32,9 @@ Foi desenvolvido um dashboard com:
 
 ---
 
-## Dashboard
+## Dashboard do Painel
 
-assets/Dashboard.gif
+Dashboard.gif
 ---
 
 ## Principais Insights
