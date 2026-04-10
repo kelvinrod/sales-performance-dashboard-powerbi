@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard | Análise de Vendas em E-commerce
+# Sales Performance Dashboard | Análise de Vendas em E-commerce
 
 ## Visão Geral
 
@@ -34,7 +34,7 @@ Foi desenvolvido um dashboard com:
 
 ## Dashboard
 
-![Dashboard](./assets/dashboard.png)
+![Dashboard](./assets/assets/assets/Animação.gif)
 
 ---
 
