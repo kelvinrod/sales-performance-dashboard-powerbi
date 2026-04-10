@@ -43,8 +43,8 @@ Foi desenvolvido um dashboard interativo com:
 ## Principais Insights
 
 - Forte concentração de faturamento em poucos estados (Edeito Pareto)
-- São Paulo representa aproximadamente 38% do faturamento total
-- Os principais estados concentram cerca de 80% da receita
+- São Paulo concentra ~38% do faturamento total
+- Top 7 estados representam ~80% da receita
 - Algumas categorias dominam o volume de vendas
 - Tendência de crescimento ao longo do período analisado
 
