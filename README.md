@@ -35,7 +35,7 @@ Foi desenvolvido um dashboard interativo com:
 ## Demonstração do Dashboard
 
 <p align="center">
-  <img src="./Dashboard.gif" width="900"/>
+  <img src="./assets/Dashboard.gif" width="900"/>
 </p>
 
 ---
