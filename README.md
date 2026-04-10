@@ -43,7 +43,7 @@ Foi desenvolvido um dashboard com:
 ## Principais Insights
 
 - Forte concentração de faturamento em poucos estados
-- São Paulo lidera com grande margem
+- São Paulo concentra cerca de 39% do faturamento e os 7 principais estados concentram aproximadamente 80% da receita
 - Algumas categorias dominam a receita
 - Tendência de crescimento ao longo do tempo
 
