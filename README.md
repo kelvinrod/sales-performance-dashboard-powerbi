@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto apresenta um dashboard interativo desenvolvido em Power BI com foco na análise de performance de vendas em um e-commerce.
+Este projeto apresenta um dashboard interativo desenvolvido em Power BI com foco na análise de performance de vendas em um e-commerce.<br>
 O objetivo é transformar dados em informações estratégicas para apoiar a tomada de decisão.
 
 ---
