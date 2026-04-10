@@ -34,8 +34,7 @@ Foi desenvolvido um dashboard com:
 
 ## Dashboard
 
-![Dashboard](./assets/assets/assets/Animação.gif)
-
+assets/Dashboard.gif
 ---
 
 ## Principais Insights
