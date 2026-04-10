@@ -3,8 +3,8 @@
 ## Visão Geral
 
 Este projeto apresenta um dashboard interativo desenvolvido em Power BI com foco na análise de performance de vendas em um e-commerce.
-
 O objetivo é transformar dados em informações estratégicas para apoiar a tomada de decisão.
+
 ---
 
 ## Problema de Negócio
@@ -17,6 +17,7 @@ Empresas de e-commerce precisam responder perguntas críticas para o crescimento
 - Quais categorias mais impactam o resultado?
 
 Sem essas respostas, decisões são tomadas com base em percepção, e não em dados.
+
 ---
 
 ## Solução
@@ -29,6 +30,7 @@ Foi desenvolvido um dashboard interativo com:
 - Curva de Pareto (80/20)
 - Análise das categorias mais relevantes
 - Filtro dinâmico de período
+  
 ---
 
 ## Demonstração do Dashboard
@@ -46,6 +48,7 @@ Foi desenvolvido um dashboard interativo com:
 - Os principais estados concentram cerca de 80% da receita
 - Algumas categorias dominam o volume de vendas
 - Tendência de crescimento ao longo do período analisado
+
 ---
 
 ## Ferramentas Utilizadas
@@ -54,6 +57,7 @@ Foi desenvolvido um dashboard interativo com:
 - DAX
 - Modelagem de dados
 - ETL e transformação de dados
+  
 ---
 
 ## Estrutura do Projeto
@@ -62,11 +66,15 @@ Foi desenvolvido um dashboard interativo com:
 - `assets/dashboard.gif`: demonstração interativa
 - `assets/dashboard.png`: imagem estática do painel
 
+---
+
 ## Como visualizar
 
 1. Baixe o arquivo `.pbix`
 2. Abra no Power BI Desktop
 3. Explore os filtros e visuais do dashboard
+
+---
 
 ## Diferenciais do Projeto
 
@@ -77,6 +85,7 @@ Foi desenvolvido um dashboard interativo com:
 - Foco em análise de negócio.
 
 ---
+
 ## Sobre o Projeto
 
 Este projeto foi desenvolvido com foco em simular um cenário real de análise de dados em e-commerce, priorizando clareza, eficiência e aplicação prática.
