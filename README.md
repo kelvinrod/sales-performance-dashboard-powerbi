@@ -33,7 +33,11 @@ Foi desenvolvido um dashboard com:
 ---
 ## Demonstração do Dashboard
 
-![Dashboard](./Painel.gif)
+## 📸 Demonstração do Dashboard
+
+<p align="center">
+  <img src="./Painel.gif" width="900"/>
+</p>
 
 ---
 
