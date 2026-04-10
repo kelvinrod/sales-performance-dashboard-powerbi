@@ -20,8 +20,7 @@ Sem essas respostas, decisões são tomadas com base em percepção, e não em d
 
 ---
 
-## Solução
-
+## Solução<br>
 Foi desenvolvido um dashboard interativo com:
 
 - KPIs principais (Faturamento Total, Faturamento entregue, Pedidos, Ticket Médio)
