@@ -31,7 +31,6 @@ Foi desenvolvido um dashboard com:
 - Filtro dinâmico de período
 
 ---
-
 ## Demonstração do Dashboard
 
 ![Dashboard](./Painel.gif)
