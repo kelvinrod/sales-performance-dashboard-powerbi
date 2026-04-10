@@ -61,4 +61,17 @@ Foi desenvolvido um dashboard com:
 
 - Aplicação prática de Pareto
 - Design com identidade visual própria
-- Foco em análise de negócio (não só visual)
+- Foco em análise de negócio
+---
+
+## Estrutura do Projeto
+
+- `sales-performance-dashboard.pbix`: arquivo principal do dashboard
+- `assets/dashboard.gif`: demonstração interativa
+- `assets/dashboard.png`: imagem estática do painel
+
+## Como visualizar
+
+1. Baixe o arquivo `.pbix`
+2. Abra no Power BI Desktop
+3. Explore os filtros e visuais do dashboard
