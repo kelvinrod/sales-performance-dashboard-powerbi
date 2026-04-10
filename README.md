@@ -32,9 +32,10 @@ Foi desenvolvido um dashboard com:
 
 ---
 
-## [Dashboard do Painel](https://github.com/kelvinrod/sales-performance-dashboard-powerbi/blob/0237b9e8716eb0dd81deb410bb96a35c40bcbdb7/Dashboard.gif)
+## Demonstração do Dashboard
 
-Dashboard.gif
+[Dashboard do Painel](https://github.com/kelvinrod/sales-performance-dashboard-powerbi/blob/0237b9e8716eb0dd81deb410bb96a35c40bcbdb7/Dashboard.gif)
+
 ---
 
 ## Principais Insights
